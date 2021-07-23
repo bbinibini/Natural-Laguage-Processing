@@ -4,8 +4,11 @@
 
 
 
-[1.자연어처리기초]()
+### [1.자연어처리기초]()
 * 정규표현식
 * Regular Expression
 * Tokenization
+* 불용어 사전
 * Pos 태깅
+* 한국어처리, MeCab
+* BoW, DTM, TF-IDF
