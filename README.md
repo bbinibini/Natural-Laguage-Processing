@@ -19,6 +19,7 @@
 
 ## [3.군집분석(Cluster Analysis)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/3.%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D(Cluster%20Analysis).ipynb)
 * Word2Vec
+* Vector Similarity
 * Hierarchical clustering
 * Agglomerative Clustering
 
