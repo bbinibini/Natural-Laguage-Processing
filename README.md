@@ -23,3 +23,13 @@
 * Hierarchical clustering
 * Agglomerative Clustering
 
+## [4.문서분류(Document Classification)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/4.%EB%AC%B8%EC%84%9C%EB%B6%84%EB%A5%98(Document%20Classification).ipynb)
+* 20개의 주제를 가지는 뉴스그룹 데이터
+* Logistic Regression
+* Support Vector Machines
+* Naive Bayes Classification with DTM
+* Decision Tree
+* XGBoost
+* Cross-Validation
+* F1 Score - Multi classification
+* GridSearch
