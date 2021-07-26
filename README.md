@@ -16,3 +16,9 @@
 * 네이버 영화 리뷰 데이터
 * Word Cloud
 * Tree Map
+
+## [3.군집분석(Cluster Analysis)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/3.%EA%B5%B0%EC%A7%91%EB%B6%84%EC%84%9D(Cluster%20Analysis).ipynb)
+* Word2Vec
+* Hierarchical clustering
+* Agglomerative Clustering
+
