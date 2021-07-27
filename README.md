@@ -33,3 +33,8 @@
 * Cross-Validation
 * F1 Score - Multi classification
 * GridSearch
+
+## [5.의미 연결망 분석(Semantic Network Analysis)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/5.%EC%9D%98%EB%AF%B8%20%EC%97%B0%EA%B2%B0%EB%A7%9D%20%EB%B6%84%EC%84%9D(Semantic%20Network%20Analysis).ipynb)
+* 동시 출현(Co-occurrence) 빈도/확률 계수화
+* Centrality & PageRank
+* Centrality Visualization
