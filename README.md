@@ -38,3 +38,8 @@
 * 동시 출현(Co-occurrence) 빈도/확률 계수화
 * Centrality & PageRank
 * Centrality Visualization
+
+## [6.토픽 모델링(Topic Modeling)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/6.%ED%86%A0%ED%94%BD%20%EB%AA%A8%EB%8D%B8%EB%A7%81(Topic%20Modeling).ipynb)
+* LSA(Latent Semantic Analysis)
+* LDA(Latent Dirichlet Allocation)
+* LDA Visualization
