@@ -48,3 +48,8 @@
 * Encoding
 * Word2Vec
 * Word2Vec Visualization(T-SNE)
+
+## [8.순환 신경망(Recurrent Neural Network)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/8.%EC%88%9C%ED%99%98%20%EC%8B%A0%EA%B2%BD%EB%A7%9D(Recurrent%20Neural%20Network).ipynb)
+* RNN
+* LSTM
+* GRU
