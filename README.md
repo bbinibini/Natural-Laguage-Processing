@@ -43,3 +43,8 @@
 * LSA(Latent Semantic Analysis)
 * LDA(Latent Dirichlet Allocation)
 * LDA Visualization
+
+## [7.임베딩(Embedding)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/7.%EC%9E%84%EB%B2%A0%EB%94%A9(Embedding).ipynb)
+* Encoding
+* Word2Vec
+* Word2Vec Visualization(T-SNE)
