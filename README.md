@@ -53,3 +53,8 @@
 * RNN
 * LSTM
 * GRU
+
+## [9.워드투벡터(Word2Vec)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/9.%20%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A1%9C%20Word2Vec%20Skipgram%2C%20CBOW%20%EA%B5%AC%ED%98%84.ipynb)
+* Keras로 Word2Vec 구현하기
+* Skipgram
+* CBOW
