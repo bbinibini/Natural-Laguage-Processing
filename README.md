@@ -62,3 +62,7 @@
 ## [10.감정 분석(Sentiment Analysis)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/10.%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Sentiment%20Analysis).ipynb)
 * 감정 어휘 사전을 이용한 감정 상태 분류
 * LSTM을 이용한 감정 분석
+
+## [11.RNN 인코더 디코더](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/11.RNN%20%EC%9D%B8%EC%BD%94%EB%8D%94%20%EB%94%94%EC%BD%94%EB%8D%94.ipynb)
+* Sequence-to-Seqeunce
+* Attention Mechanism
