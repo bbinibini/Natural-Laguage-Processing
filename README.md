@@ -61,4 +61,4 @@
 
 ## [10.감정 분석(Sentiment Analysis)](https://github.com/gyqls/Natural-Laguage-Processing/blob/main/10.%EA%B0%90%EC%A0%95%20%EB%B6%84%EC%84%9D(Sentiment%20Analysis).ipynb)
 * 감정 어휘 사전을 이용한 감정 상태 분류
-* 기계학습을 이용한 감정 분석
+* LSTM을 이용한 감정 분석
